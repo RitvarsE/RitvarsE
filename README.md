@@ -2,9 +2,16 @@
 I`m a software engineer. 
 Currently working on Laravel.
 
-Tools:
+---
 
-• PHP,
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
+
 
 • MySQL,
 
