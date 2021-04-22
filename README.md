@@ -1,4 +1,4 @@
-Hi, my name is Ritvars!
+**Hi, my name is Ritvars! **
 I`m a software engineer. 
 Currently working on Laravel.
 
