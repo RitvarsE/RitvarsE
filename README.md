@@ -22,6 +22,9 @@ Tools:
 
 Contact:
 linkedin: www.linkedin.com/in/ritvars-eglajs/
+
 github: www.github.com/RitvarsE/
+
 email: ritvars.eglajs@outlook.com
+
 number: + 371 26060220
