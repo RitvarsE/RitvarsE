@@ -1,4 +1,4 @@
-**Hi, my name is Ritvars! **
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ritvars!
 I`m a software engineer. 
 Currently working on Laravel.
 
