@@ -18,10 +18,9 @@ Currently working on Laravel.
 
 
 Contact:
-linkedin: www.linkedin.com/in/ritvars-eglajs/
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="50" height="50"/>  www.linkedin.com/in/ritvars-eglajs/
 
-github: www.github.com/RitvarsE/
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="50"/> www.github.com/RitvarsE/
+<img src="https://www.flaticon.com/premium-icon/icons/svg/2989/2989993.svg" width="50" height="50"/> ritvars.eglajs@outlook.com
 
-email: ritvars.eglajs@outlook.com
-
-number: + 371 26060220
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/272/mobile-phone_1f4f1.png" width="50" height="50"/> + 371 26060220
