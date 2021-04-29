@@ -15,7 +15,12 @@ Currently working on Laravel.
 • Building REST API,
 
 ---
+## Top repositories
 
+• <a href='https://github.com/RitvarsE/converter'>Euro currency converter</a>
+• <a href='https://github.com/RitvarsE/tinder'>Tinder-like application</a>
+• <a href='https://github.com/RitvarsE/stock'>Stock trading</a>
+---
 
 ## Contact:
 
@@ -27,10 +32,3 @@ Currently working on Laravel.
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/272/mobile-phone_1f4f1.png" width="50" height="50"/> + 371 26060220
 ---
-## Top repositories
-
-<a href='https://github.com/RitvarsE/converter'>Euro currency converter</a>
-
-<a href='https://github.com/RitvarsE/tinder'>Tinder-like application</a>
-
-<a href='https://github.com/RitvarsE/stock'>Stock trading</a>
