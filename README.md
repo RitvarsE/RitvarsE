@@ -17,9 +17,9 @@ Currently working on Laravel.
 ---
 ## Top repositories
 
-• <a href='https://github.com/RitvarsE/converter'>Euro currency converter</a>
-• <a href='https://github.com/RitvarsE/tinder'>Tinder-like application</a>
-• <a href='https://github.com/RitvarsE/stock'>Stock trading</a>
+• <a href='https://github.com/RitvarsE/converter'>💱 Euro currency converter</a>
+• <a href='https://github.com/RitvarsE/tinder'>💖Tinder-like application</a>
+• <a href='https://github.com/RitvarsE/stock'>💰Stock trading</a>
 ---
 
 ## Contact:
